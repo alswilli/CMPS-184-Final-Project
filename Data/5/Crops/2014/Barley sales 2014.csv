@@ -1,0 +1,40 @@
+;;;;;;;
+;;Value of sales - con.;Value of sales - con.;Value of sales - con.;Value of sales - con.;Value of sales - con.;Value of sales - con.
+;;Sold as organic;Sold as organic;Sold as organic;Sold as conventional;Sold as conventional;Sold as conventional
+;Crop and geographic area;Farms;Quantity;Dollars;Farms;Quantity;Dollars
+;United States;362;1524414;14211114;36;51609;268504
+;Arizona;3;40182;384476;-;-;-
+;California;19;238219;2278120;4;20119;103603
+;Colorado;4;(D);(D);1;(D);(D)
+;Connecticut;-;-;-;1;(D);(D)
+;Georgia;-;-;-;-;-;-
+;Idaho;35;273881;2519581;5;879;4322
+;Illinois;6;6181;60175;-;-;-
+;Indiana;5;2280;18846;-;-;-
+;Iowa;20;27019;241740;5;1649;8621
+;Kansas;-;-;-;-;-;-
+;Kentucky;2;(D);(D);-;-;-
+;Louisiana;-;-;-;-;-;-
+;Maine;5;4014;43940;-;-;-
+;Maryland;8;14606;144876;-;-;-
+;Michigan;7;3831;36562;-;-;-
+;Minnesota;31;66325;636282;4;3318;17429
+;Missouri;2;(D);(D);-;-;-
+;Montana;16;(D);(D);1;(D);(D)
+;Nebraska;9;14735;137846;-;-;-
+;Nevada;2;(D);(D);-;-;-
+;New York;20;(D);(D);1;(D);(D)
+;North Carolina;6;5642;59018;-;-;-
+;North Dakota;7;(D);(D);1;(D);(D)
+;Ohio;22;(D);(D);1;(D);(D)
+;Oklahoma;2;(D);(D);-;-;-
+;Oregon;30;392362;3542807;9;11291;55412
+;Pennsylvania;9;5424;53484;-;-;-
+;South Dakota;7;25300;195642;-;-;-
+;Tennessee;1;(D);(D);-;-;-
+;Utah;1;(D);(D);-;-;-
+;Vermont;3;1208;12082;-;-;-
+;Virginia;5;8177;86329;-;-;-
+;Washington;11;30947;299729;-;-;-
+;Wisconsin;63;65841;611745;3;322;1687
+;Wyoming;1;(D);(D);-;-;-
